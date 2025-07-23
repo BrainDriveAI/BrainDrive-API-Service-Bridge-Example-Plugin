@@ -251,7 +251,6 @@ This plugin serves as a **reference implementation** for:
 
 - [BrainDrive](https://github.com/BrainDriveAI/BrainDrive)
 - [Service Bridge - API Developers Guide](DEVELOPER_GUIDE.md)
-- [BrainDrive Plugin Development](https://docs.braindrive.ai/plugins)
 
 ---
 
