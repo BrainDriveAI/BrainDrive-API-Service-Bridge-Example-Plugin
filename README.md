@@ -4,7 +4,7 @@ A working demonstration plugin for BrainDrive's API Service Bridge functionality
 
 ## 📸 Plugin Demo
 
-![API Service Bridge Demo](screenshot/ApiDemoPage.png)
+![API Service Bridge Demo](screenshot/APIDemoPage.png)
 
 *The ServiceExample_API plugin in action, showing the three-tab interface for Learning Objectives, Service Connected operations, and External Connection testing.*
 
