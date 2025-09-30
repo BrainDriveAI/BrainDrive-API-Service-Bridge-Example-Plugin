@@ -1,6 +1,6 @@
 {
   "name": "service-example-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BrainDrive API Service Bridge Example - Demonstrates CRUD operations and external API connectivity",
   "main": "dist/remoteEntry.js",
   "scripts": {
