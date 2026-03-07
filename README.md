@@ -1,3 +1,7 @@
+> ⚠️ **This repository has been archived.** BrainDrive has evolved into the [Personal AI Architecture](https://personalaiarchitecture.org) — an MIT-licensed, open architecture for building personal AI systems with zero lock-in. See the [new repo](https://github.com/Personal-AI-Architecture/the-architecture) for the latest work.
+
+---
+
 # ServiceExample_API - BrainDrive API Service Bridge Demo
 
 A working demonstration plugin for BrainDrive's API Service Bridge functionality. This plugin showcases both internal backend CRUD operations and external API connectivity testing through an interactive tabbed interface with comprehensive error handling patterns.
